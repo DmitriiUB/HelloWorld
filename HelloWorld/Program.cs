@@ -9,7 +9,6 @@ namespace HelloWorld
             Console.WriteLine("Hello World!");
             Proba();
             Proba();
-            Proba();
 
 
 
